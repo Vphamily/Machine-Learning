@@ -1,4 +1,4 @@
-# Hello this is a simple project showing how machine learning work
+# Indetifying pattern of mix match data if it is a person or a company
 
 **Project Objective:**
   - identify the customer by catagory
